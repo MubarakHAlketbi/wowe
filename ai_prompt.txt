@@ -1,0 +1,48 @@
+You are tasked with analyzing World of Warcraft class data to create metrics for ease of play and damage output. Your goal is to understand the information in the context of gameplay, create relevant metrics, and rank each class accordingly.
+
+First, review the provided World of Warcraft class data:
+
+<wow_class_data>
+{{WOW_CLASS_DATA}}
+</wow_class_data>
+
+<List_of_classes>
+{{WOW_CLASSES}}
+</List_of_classes>
+
+Now, follow these steps to complete the task:
+
+1. Analyze the data:
+   Carefully review the provided information for each class. Consider how different aspects of each class might contribute to its ease of play and damage output in a gameplay context.
+
+2. Create metrics:
+   Based on your analysis, develop at least four metrics for ease of play and three metrics for damage output. These metrics should be derived from the data provided and reflect important aspects of gameplay. For example, metrics for ease of play might include factors like rotation complexity or survivability, while damage output metrics could include burst damage potential or sustained damage over time.
+
+3. Assign values:
+   For each class and each metric you've created, assign a numerical value on a scale of 1-10, where 1 is the lowest (worst) and 10 is the highest (best). Use your understanding of the game mechanics and the provided data to make these assessments.
+
+4. Create a table:
+   Compile your findings into a table. The table should have the following structure:
+   - Rows: Each World of Warcraft class
+   - Columns: 
+     - Class name
+     - Your created metrics for ease of play (at least 3)
+     - Your created metrics for damage output (at least 3)
+     - Average ease of play score
+     - Average damage output score
+     - Overall average score
+   - Final row: Overall average for each column
+
+5. Explain your methodology:
+   After the table, provide a brief explanation of how you developed your metrics and assigned values. Discuss any assumptions you made or particular aspects of the data that heavily influenced your decisions.
+
+Present your findings in the following format:
+
+<analysis>
+[Insert your table here]
+
+Methodology:
+[Insert your explanation here]
+</analysis>
+
+Remember to consider the nuances of World of Warcraft gameplay when creating your metrics and assigning values. Your analysis should reflect a deep understanding of how different class characteristics translate to performance in the game. do not miss any class in your analysis, there are 32 classes.
